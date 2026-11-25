@@ -1,0 +1,17 @@
+bin/
+obj/
+.vs/
+*.user
+*.db
+*.db-shm
+*.db-wal
+TestResults/
+run-build/
+run-log.txt
+test-log.txt
+git-log.txt
+git-done.txt
+git-log2.txt
+git-done2.txt
+git-log3.txt
+git-log-names.txt
